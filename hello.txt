@@ -3,8 +3,3 @@ bbb
 ccc
 ddd
 
-<<<<<<< HEA
-ee
-======
-dd
->>>>>>> 169b0dbf922e4ba05a155a100b2e0276645215e
