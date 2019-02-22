@@ -1,8 +1,4 @@
 aaa
 bbb
 ccc
-<<<<<<< HEAD
-eee
-=======
-ddd
->>>>>>> 169b0dbf922e4ba05a155a100b2e02766045215e
+
